@@ -14,5 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-mahesh&show_icons=true&locale=en" alt="tejas-mahesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-mahesh&" alt="tejas-mahesh" /></p>
 
