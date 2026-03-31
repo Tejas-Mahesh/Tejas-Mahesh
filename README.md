@@ -1,18 +1,47 @@
-<h1 align="center">Hi 👋, I'm Tejas M</h1>
-- 📫 How to reach me **tejasmaheshdl@gmail.com**
+# Hi, I'm Tejas 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-mahesh&show_icons=true&locale=en&layout=compact" alt="tejas-mahesh" /></p>
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-mahesh&show_icons=true&locale=en" alt="tejas-mahesh" /></p>
+### 🗄 Databases
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-mahesh&" alt="tejas-mahesh" /></p>
+---
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+![streak](https://streak-stats.demolab.com/?user=Tejas-Mahesh&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mahesh&theme=react-dark)
+
+---
+
+## 💻 Top Languages
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Mahesh&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Tejas-Mahesh
+>
 
 
 
