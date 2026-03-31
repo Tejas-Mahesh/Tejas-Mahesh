@@ -17,13 +17,6 @@
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
----
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=radical)
-
----
-
 ## 🔥 GitHub Streak
 ![streak](https://streak-stats.demolab.com/?user=Tejas-Mahesh&theme=radical)
 
@@ -31,11 +24,6 @@
 
 ## 📈 Contribution Graph
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mahesh&theme=react-dark)
-
----
-
-## 💻 Top Languages
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Mahesh&layout=compact&theme=radical)
 
 ---
 
