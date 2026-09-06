@@ -29,13 +29,13 @@ A passionate developer focused on building efficient web applications and softwa
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tejas-Mahesh&theme=radical" alt="Tejas's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Tejas-Mahesh&theme=radical" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mahesh&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=radical&rank_icon=percentile" alt="GitHub Stats" />
 </div>
 
 ---
