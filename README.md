@@ -29,12 +29,7 @@ A passionate developer focused on building efficient web applications and softwa
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tejas-Mahesh&theme=radical" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tejas-Mahesh&theme=radical" alt="GitHub Streak" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=radical&rank_icon=percentile" alt="GitHub Stats" />
 </div>
 
@@ -42,9 +37,6 @@ A passionate developer focused on building efficient web applications and softwa
 
 ### 📫 Connect with Me
 
-- **GitHub:** [@Tejas-Mahesh](https://github.com/Tejas-Mahesh)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
-
-
-
+- 📂 **GitHub:** [@Tejas-Mahesh](https://github.com/Tejas-Mahesh)
+- 💼 **LinkedIn:** [Tejas Mahesh](https://linkedin.com/in/your-profile)
+- ✉️ **Email:** [tejasmaheshdl@gmail.com](mailto:tejasmaheshdl@gmail.com)
