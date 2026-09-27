@@ -30,11 +30,11 @@ A passionate developer focused on building efficient web applications and softwa
 
 <div align="center">
   <a href="https://github.com/Tejas-Mahesh">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=radical&rank_icon=percentile" alt="Tejas's GitHub Stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mahesh&theme=react-dark" alt="Tejas's Contribution Graph" />
   </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <a href="https://github.com/Tejas-Mahesh">
