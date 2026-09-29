@@ -149,25 +149,7 @@ A data analytics project focused on understanding customer behavior, sales perfo
 
 </div>
 
----
 
-## 🎯 Current Focus
-
-```text
-Full-Stack Development
-        ↓
-Python & Django
-        ↓
-Data Analytics & Business Intelligence
-        ↓
-Machine Learning & Forecasting
-        ↓
-Decision Intelligence
-```
-
-I’m currently focused on building projects that combine **web development, data analytics, and intelligent decision-support systems**.
-
----
 
 ## 🤝 Connect With Me
 
