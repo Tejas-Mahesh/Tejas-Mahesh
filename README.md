@@ -14,7 +14,6 @@
 
 * 💻 **Full-Stack Development:** Python, Django, REST APIs, and modern responsive frontends.
 * 📊 **Data Analytics & BI:** Data pipelines, ETL workflows, exploratory analysis, and Power BI dashboards.
-* 🗄️ **Database Engineering:** Relational modeling (PostgreSQL, MySQL) and NoSQL architecture (MongoDB).
 * 🧠 **Decision Intelligence:** Predictive modeling, statistical analysis, and machine learning exploration.
 
 ---
