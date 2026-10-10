@@ -10,13 +10,13 @@
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" width="100%" alt="Tejas GitHub Profile Banner">
-  </picture>
-</div>
+## 🎨 System Visual Matrix
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-light.svg">
+  <img src="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-dark.svg" alt="Tejas Profile Banner">
+</picture>
 
 ---
 
@@ -40,24 +40,13 @@
 
 ---
 
-### 📊 GitHub Metrics & Activity
+### 📊 GitHub Metrics & Analytics
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/snake.svg">
-    <img src="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/snake-dark.svg" alt="GitHub Contribution Snake" />
-  </picture>
-</div>
-
-<br />
+> **Note on Stats Configuration:** The stats below use `hide_rank=true`. Account ranks scale heavily with global repository star counts rather than code volume or contribution density, making them misleading gauges for practical engineering output.
 
 <div align="center">
   <a href="https://github.com/Tejas-Mahesh">
-    <img height="170" src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Tejas's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Tejas-Mahesh">
-    <img height="170" src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=Tejas-Mahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Tejas's Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mahesh&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Tejas's Contribution Activity Graph" />
   </a>
 </div>
 
@@ -65,9 +54,30 @@
 
 <div align="center">
   <a href="https://github.com/Tejas-Mahesh">
-    <img src="https://streak-stats.demolab.com/?user=Tejas-Mahesh&theme=tokyonight&hide_border=true" alt="Tejas's GitHub Streak" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Tejas's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Tejas-Mahesh">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Mahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Tejas's Top Languages" />
   </a>
 </div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Tejas-Mahesh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Mahesh&theme=tokyonight&hide_border=true" alt="Tejas's GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-snake.svg" alt="GitHub Contribution Snake Animation">
+</picture>
 
 ---
 
@@ -82,8 +92,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://github.com/Tejas-Mahesh">
+    <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=todoist&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
 
