@@ -1,4 +1,4 @@
-# Hi there, I'm Tejas 👋
+# Hi there, I'm Tejas Mahesh 👋
 
 <p align="left">
   <strong>Full-Stack Developer | Data Analyst</strong>
@@ -10,13 +10,15 @@
 
 ---
 
-## 🎨 System Visual Matrix
+### 🖼️ Profile Banner
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-light.svg">
-  <img src="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-dark.svg" alt="Tejas Profile Banner">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-light.svg">
+    <img src="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/main/banner-dark.svg" alt="Tejas Mahesh Profile Banner">
+  </picture>
+</p>
 
 ---
 
@@ -42,22 +44,12 @@
 
 ### 📊 GitHub Metrics & Analytics
 
-> **Note on Stats Configuration:** The stats below use `hide_rank=true`. Account ranks scale heavily with global repository star counts rather than code volume or contribution density, making them misleading gauges for practical engineering output.
-
 <div align="center">
   <a href="https://github.com/Tejas-Mahesh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mahesh&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Tejas's Contribution Activity Graph" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/Tejas-Mahesh">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Tejas's GitHub Stats" />
+    <img height="170" src="https://YOUR-VERCEL-APP-URL.vercel.app/api?username=Tejas-Mahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Tejas's GitHub Stats" />
   </a>
   <a href="https://github.com/Tejas-Mahesh">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Mahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Tejas's Top Languages" />
+    <img height="170" src="https://YOUR-VERCEL-APP-URL.vercel.app/api/top-langs/?username=Tejas-Mahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Tejas's Top Languages" />
   </a>
 </div>
 
@@ -73,11 +65,13 @@
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-snake.svg" alt="GitHub Contribution Snake Animation">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Tejas-Mahesh/Tejas-Mahesh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation">
+  </picture>
+</p>
 
 ---
 
@@ -93,7 +87,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Tejas-Mahesh">
-    <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=todoist&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
