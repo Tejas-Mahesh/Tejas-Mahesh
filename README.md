@@ -139,7 +139,7 @@ A data-driven business intelligence project focused on transforming uploaded bus
 
 I'm always interested in learning, collaborating, and building meaningful projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-mahesh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-m-2351a43b9/)
 
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasmaheshdl@gmail.com)
 
