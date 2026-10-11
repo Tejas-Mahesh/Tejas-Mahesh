@@ -15,7 +15,7 @@ Building useful applications. Turning data into insights.
   <a href="https://github.com/Tejas-Mahesh">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
-  <a href="https://www.linkedin.com/in/tejas-mahesh/">
+  <a href="https://www.linkedin.com/in/tejas-m-2351a43b9/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:tejasmaheshdl@gmail.com">
