@@ -113,11 +113,13 @@ A data-driven business intelligence project focused on transforming uploaded bus
 
 ## 🟩 Contribution Activity
 
+
 <div align="center">
 
-[![Tejas's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mahesh&theme=tokyo-night&hide_border=true)](https://github.com/Tejas-Mahesh)
+[![Tejas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mahesh&theme=tokyo-night&hide_border=true)](https://github.com/Tejas-Mahesh)
 
 </div>
+
 
 ### 🐍 Contribution Snake
 
